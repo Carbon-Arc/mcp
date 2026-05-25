@@ -1,22 +1,17 @@
 {
-  "$schema": "https://modelcontextprotocol.io/schemas/server.schema.json",
-  "name": "com.carbonarc/mcp",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.carbon-arc/mcp",
+  "title": "Carbon Arc",
   "description": "The infrastructure for the AI economy. Composable, queryable, monetizable primitives built for inference, agents, and decisions.",
   "version": "0.1.0",
   "repository": {
     "url": "https://github.com/Carbon-Arc/mcp",
     "source": "github"
   },
-  "homepage": "https://mcp.carbonarc.ai",
-  "documentation": "https://docs.carbonarc.ai/platform/mcp",
   "remotes": [
     {
       "type": "streamable-http",
       "url": "https://mcp.carbonarc.ai"
     }
-  ],
-  "auth": {
-    "type": "oauth2",
-    "discovery_endpoint": "https://mcp.carbonarc.ai/.well-known/oauth-authorization-server"
-  }
+  ]
 }
