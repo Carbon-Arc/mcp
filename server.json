@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.carbon-arc/mcp",
+  "name": "co.carbonarc/mcp",
   "title": "Carbon Arc",
   "description": "The infrastructure for the AI economy. Composable, queryable, monetizable primitives built for inference, agents, and decisions.",
   "version": "0.1.0",
