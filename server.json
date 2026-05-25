@@ -1,7 +1,7 @@
 {
   "$schema": "https://modelcontextprotocol.io/schemas/server.schema.json",
   "name": "com.carbonarc/mcp",
-  "description": "Carbon Arc — the insights exchange for AI agents. Hundreds of data sources on a unified knowledge graph spanning brands, companies, people, and locations.",
+  "description": "Carbon Arc data platform MCP server.",
   "version": "0.1.0",
   "repository": {
     "url": "https://github.com/Carbon-Arc/mcp",
@@ -18,13 +18,5 @@
   "auth": {
     "type": "oauth2",
     "discovery_endpoint": "https://mcp.carbonarc.ai/.well-known/oauth-authorization-server"
-  },
-  "categories": [
-    "data",
-    "analytics"
-  ],
-  "tags": [
-    "insights-exchange",
-    "knowledge-graph"
-  ]
+  }
 }
