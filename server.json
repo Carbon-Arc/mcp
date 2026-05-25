@@ -1,0 +1,30 @@
+{
+  "$schema": "https://modelcontextprotocol.io/schemas/server.schema.json",
+  "name": "com.carbonarc/mcp",
+  "description": "Carbon Arc — the insights exchange for AI agents. Hundreds of data sources on a unified knowledge graph spanning brands, companies, people, and locations.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/Carbon-Arc/mcp",
+    "source": "github"
+  },
+  "homepage": "https://mcp.carbonarc.ai",
+  "documentation": "https://docs.carbonarc.ai/platform/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.carbonarc.ai"
+    }
+  ],
+  "auth": {
+    "type": "oauth2",
+    "discovery_endpoint": "https://mcp.carbonarc.ai/.well-known/oauth-authorization-server"
+  },
+  "categories": [
+    "data",
+    "analytics"
+  ],
+  "tags": [
+    "insights-exchange",
+    "knowledge-graph"
+  ]
+}
