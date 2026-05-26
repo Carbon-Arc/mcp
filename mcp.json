@@ -1,0 +1,9 @@
+{
+  "carbonarc": {
+    "type": "http",
+    "url": "https://mcp.carbonarc.ai",
+    "headers": {
+      "X-Source-Name": "cursor-plugin"
+    }
+  }
+}
