@@ -3,8 +3,7 @@
     "type": "http",
     "url": "https://mcp.carbonarc.ai",
     "headers": {
-      "X-Source-Name": "cursor-plugin",
-      "X-Source-Version": "1.0.0"
+      "X-Source-Name": "cursor-plugin"
     }
   }
 }
