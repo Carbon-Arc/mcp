@@ -1,6 +1,8 @@
 {
-  "carbonarc": {
-    "url": "https://mcp.carbonarc.ai",
-    "transport": "http"
+  "mcpServers": {
+    "carbonarc": {
+      "url": "https://mcp.carbonarc.ai",
+      "type": "http"
+    }
   }
 }
