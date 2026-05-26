@@ -1,0 +1,13 @@
+{
+  "name": "carbonarc",
+  "version": "1.0.0",
+  "description": "Cursor Plugin for Carbon Arc — the infrastructure for the AI economy: composable, queryable, monetizable primitives built for inference, agents, and decisions.",
+  "author": {
+    "name": "Carbon Arc",
+    "email": "support@carbonarc.co",
+    "url": "https://www.carbonarc.co"
+  },
+  "keywords": ["carbon-arc", "mcp", "data", "insights", "ontology", "alternative-data", "ai-economy"],
+  "logo": "logo.svg",
+  "primaryColor": "#FF5A00"
+}
