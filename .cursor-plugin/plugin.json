@@ -1,5 +1,6 @@
 {
   "name": "carbonarc",
+  "displayName": "Carbon Arc",
   "version": "1.0.0",
   "description": "The infrastructure for the AI economy: composable, queryable, monetizable primitives built for inference, agents, and decisions.",
   "author": {
