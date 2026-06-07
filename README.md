@@ -6,11 +6,11 @@
 
 ## Getting access
 
-Carbon Arc MCP requires a Carbon Arc account. Example listing on the Databricks Marketplace:
+To get an API Token:
 
-<https://marketplace.databricks.com/details/3798a39b-f6d1-48a5-8c39-0ee520954290/Carbon-Arc_Carbon-Arc-MCP-Server>
-
-Authentication is OAuth 2.0 — your MCP client opens a browser for the consent flow on first use. No keys to manage manually.
+1. Sign up for Carbon Arc at <https://app.carbonarc.co/pricing>
+2. Log into your account
+3. Get your API Token from your user profile
 
 ## Install via Cursor
 
