@@ -6,10 +6,9 @@
 
 ## Getting access
 
-Carbon Arc MCP requires a Carbon Arc account.
+Carbon Arc MCP requires a Carbon Arc account. Example listing on the Databricks Marketplace:
 
-- **Self-serve / docs:** <https://docs.carbonarc.ai/platform/mcp/carbonarc-mcp>
-- **Sales / enterprise:** <sales@carbonarc.co>
+<https://marketplace.databricks.com/details/3798a39b-f6d1-48a5-8c39-0ee520954290/Carbon-Arc_Carbon-Arc-MCP-Server>
 
 Authentication is OAuth 2.0 — your MCP client opens a browser for the consent flow on first use. No keys to manage manually.
 
